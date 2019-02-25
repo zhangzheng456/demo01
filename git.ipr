@@ -9,6 +9,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/lianxi/lianxi.iml" filepath="$PROJECT_DIR$/lianxi/lianxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lianxi02/lianxi02.iml" filepath="$PROJECT_DIR$/lianxi02/lianxi02.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager">
